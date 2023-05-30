@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Welcome😊! I am currently a second-year master student at the Guangzhou Institute of Technology, Xidian University, China, under the supervision of Prof. [Lingling An](https://scholar.google.com/citations?user=DZuZUBYAAAAJ), and co-supervised by Asst. Prof. [Xuyu Wang](https://scholar.google.com/citations?user=f2liGLoAAAAJ) from Florida International University, USA. Before pursuing graduate school, I received a Bachelor's degree in Data Science from Fujian University of Technology.
 
 ## Research Interests
 
