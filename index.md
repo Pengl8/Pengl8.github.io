@@ -16,8 +16,8 @@ Potential avenues for collaboration and in-depth discussion regarding my researc
 
 ## News
 
-- **[Jul. 2023]** Our paper about adversarial learning is accepted to TOSN 2023.
-- **[May. 2023]** Our paper about transfer learning is accepted to MASS 2023.
+- **[Jul. 2023]** Our paper about imbalanced learning in wireless sensing is accepted to TOSN 2023.
+- **[May. 2023]** Our paper about acoustic sensing is accepted to MASS 2023.
 
 <!-- {% include_relative _includes/publications.md %} -->
 
