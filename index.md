@@ -15,7 +15,9 @@ Potential avenues for collaboration and in-depth discussion regarding my researc
 - **Machine Learning:** Adversarial learning, Transfer learning, Few-shot learning
 
 ## News
+<!-- 一月Jan, 二月Feb, 三月Mar, 四月Apr, 五月May, 六月Jun, 七月Jul, 八月Aug, 九月Sep, 十月Oct, 十一月Nov , 十二月Dec-->
 
+- **[Aug. 2023]** Our paper about quantum transfer learning in wireless sensing is accepted to Globecom 2023.
 - **[Jul. 2023]** Our paper about imbalanced learning in wireless sensing is accepted to TOSN 2023.
 - **[May. 2023]** Our paper about acoustic sensing is accepted to MASS 2023.
 
