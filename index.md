@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome😊! I am currently a second-year master student at the Guangzhou Institute of Technology, Xidian University, China, under the supervision of Prof. [Lingling An](https://scholar.google.com/citations?user=DZuZUBYAAAAJ). Before pursuing graduate school, I received a Bachelor's degree in Data Science from Fujian University of Technology. 
+Welcome😊! I am currently a third-year master student at the Xidian University, under the supervision of Prof. [Lingling An](https://scholar.google.com/citations?user=DZuZUBYAAAAJ) and Prof. [Gang Liu](https://faculty.xidian.edu.cn/LG4/zh_CN/index.htm). Before pursuing graduate school, I received a Bachelor's degree in Data Science from Fujian University of Technology. 
 
 Potential avenues for collaboration and in-depth discussion regarding my research direction are available for interested parties. It would be my pleasure to engage in such discussions and collaborations with individuals who share an interest in my research. Please do not hesitate to contact me to further explore these opportunities.
 
